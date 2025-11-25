@@ -1,0 +1,11 @@
+JSON
+{
+    "name": "Ashish Bajpai",
+    "age": "45"
+}
+
+javascript object
+{
+    name:"Ashish Bajpai",
+    age: "45"
+}
